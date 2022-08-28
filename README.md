@@ -1,2 +1,2 @@
-# Physiscs_sim
+# Physics_sim
 Physics simulations 
